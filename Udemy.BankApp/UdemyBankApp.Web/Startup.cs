@@ -27,6 +27,7 @@ namespace UdemyBankApp.Web
             {
                 opt.UseSqlServer("server=(localdb)\\MSSQLLocalDB; database=BankDb; integrated security=true;");
             });
+            services.AddScoped(typeof(IRepository<>),typeof(Repository<>)); 
             services.AddScoped<IAccountRepository, AccountRepository>();
             services.AddScoped<IAccountMapper, AccountMapper>();
             services.AddScoped<IApplicationUserRepository, ApplicationUserRepository>();

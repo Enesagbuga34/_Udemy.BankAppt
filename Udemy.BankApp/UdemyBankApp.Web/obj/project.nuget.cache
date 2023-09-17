@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UQvo/DYMymcMcN6R4KQ1v4o/Dhu8CMS1noJCZiCKNGI3+vO4gQR/IMDgTqdjVWJSja2//TNa1QulvOls9Z6I0w==",
+  "dgSpecHash": "D31ziva1iDSKMsgR0vhqJUQmxdaKhOh7X22xY7Mtl8Y7x8sQ+hO08nwupyySYxk5ofp5ciylDEzW21186SuYJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enesa\\OneDrive\\Masaüstü\\Udemy.BankApp\\UdemyBankApp.Web\\UdemyBankApp.Web.csproj",
+  "projectFilePath": "C:\\Users\\enesa\\OneDrive\\Belgeler\\GitHub\\Udemy.BankAppt\\Udemy.BankApp\\UdemyBankApp.Web\\UdemyBankApp.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enesa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\enesa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

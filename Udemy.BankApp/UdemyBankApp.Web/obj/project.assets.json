@@ -6047,11 +6047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enesa\\OneDrive\\Masaüstü\\Udemy.BankApp\\UdemyBankApp.Web\\UdemyBankApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\enesa\\OneDrive\\Belgeler\\GitHub\\Udemy.BankAppt\\Udemy.BankApp\\UdemyBankApp.Web\\UdemyBankApp.Web.csproj",
       "projectName": "UdemyBankApp.Web",
-      "projectPath": "C:\\Users\\enesa\\OneDrive\\Masaüstü\\Udemy.BankApp\\UdemyBankApp.Web\\UdemyBankApp.Web.csproj",
+      "projectPath": "C:\\Users\\enesa\\OneDrive\\Belgeler\\GitHub\\Udemy.BankAppt\\Udemy.BankApp\\UdemyBankApp.Web\\UdemyBankApp.Web.csproj",
       "packagesPath": "C:\\Users\\enesa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enesa\\OneDrive\\Masaüstü\\Udemy.BankApp\\UdemyBankApp.Web\\obj\\",
+      "outputPath": "C:\\Users\\enesa\\OneDrive\\Belgeler\\GitHub\\Udemy.BankAppt\\Udemy.BankApp\\UdemyBankApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\enesa\\AppData\\Roaming\\NuGet\\NuGet.Config",
